@@ -43,3 +43,4 @@ for x in list(range(1,n+1,1)):
 
 print()
 ```
+![Gambar](Picture5/Gambar2.PNG)
